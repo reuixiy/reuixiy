@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**reuixiy/reuixiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**reuixiy** is a ✨ *special* ✨ name because it’s unique!
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![reuixiy's github stats](https://github-readme-stats.vercel.app/api?username=reuixiy)
