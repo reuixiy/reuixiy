@@ -4,7 +4,7 @@
 
 <details>
   <summary>
-    <code>echo secrets</code>
+    <code>echo $ecrets</code>
   </summary>
   
   <br />
