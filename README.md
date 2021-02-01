@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**reuixiy** is a ✨ *special* ✨ name because it’s unique!
+### Hi there! 👋
 
 <details>
   <summary>
@@ -10,6 +8,6 @@
   <br />
 
   ```
-  I’m a full-time librarian and part-time translator living in this finite infinite cyberspace. :)
+  I'm a full-time librarian and part-time translator living in this finite infinite cyberspace.
   ```
 </details>
