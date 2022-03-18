@@ -12,4 +12,4 @@
   ```
 </details>
 
-[Mission Control Center](https://github.com/users/reuixiy/projects/1/views/1)
+[🛰️ Mission Control Center](https://github.com/users/reuixiy/projects/1/views/1)
