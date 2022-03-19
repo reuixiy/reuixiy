@@ -16,4 +16,6 @@
 
 [🛰️ Mission Control Center](https://github.com/users/reuixiy/projects/1/views/1)
 
+[📜 Lists on Notion](https://reuixiy.notion.site/Home-bfba6436c19f4172ae88b0c509f55452)
+
 [💬 Ask Me Anything!](https://github.com/reuixiy/reuixiy/discussions)
