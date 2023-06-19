@@ -19,3 +19,5 @@
 [🍀 学习 (Learning)](https://reuixiy.notion.site/bfba6436c19f4172ae88b0c509f55452)
 
 [💬 Ask Me Anything!](https://github.com/reuixiy/reuixiy/discussions)
+
+([𓂀](https://reuixiy.notion.site/Vision-23eb6b985f644d618f87e61905b795fc))
