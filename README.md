@@ -20,4 +20,4 @@
 
 [💬 Ask Me Anything!](https://github.com/reuixiy/reuixiy/discussions)
 
-([𓂀](https://reuixiy.notion.site/Vision-23eb6b985f644d618f87e61905b795fc))
+([𓂀](https://io-oi.me/life/vision))
