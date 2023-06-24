@@ -21,3 +21,7 @@
 [💬 Ask Me Anything!](https://github.com/reuixiy/reuixiy/discussions)
 
 ([𓂀](https://io-oi.me/life/vision))
+
+---
+
+![🇺🇸 🇹🇼 🇺🇦](us-tw-ua.svg)
