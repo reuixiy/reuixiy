@@ -1,4 +1,6 @@
-**Hi there!** 👋
+**「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」**
+
+[🍀 學而 (Learning)](https://reuixiy.notion.site/bfba6436c19f4172ae88b0c509f55452)
 
 <details>
   <summary>
@@ -11,17 +13,3 @@
   I’m a lifetime librarian and part-time translator living in this finite infinite cyberspace.
   ```
 </details>
-
----
-
-[🛰️ Mission Control Center](https://reuixiy.notion.site/87c2460161674ec7bbe76ffcc5d94ebd?v=b72b35b9a76042dfa060be7038f83930)
-
-[🍀 學習 (Learning)](https://reuixiy.notion.site/bfba6436c19f4172ae88b0c509f55452)
-
-[💬 Ask Me Anything!](https://github.com/reuixiy/reuixiy/discussions)
-
-([𓂀](https://io-oi.me/life/vision))
-
----
-
-![🇺🇸 🇹🇼 🇺🇦](us-tw-ua.svg)
