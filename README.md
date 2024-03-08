@@ -1,3 +1,5 @@
+Writer / Photographer / Filmmaker
+
 [🍀 學而 (Learning)](https://reuixiy.notion.site/bfba6436c19f4172ae88b0c509f55452)
 
 <details>
